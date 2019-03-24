@@ -1,1 +1,2 @@
-# R-study
+# study cover
+statistics and R
